@@ -65,6 +65,10 @@ a:hover {
     align-items: center;
 }
 
+.hexText {
+    text-align: center;
+}
+
 .button {
     border: .2rem groove rgb(231, 231, 231);
     border-radius: 1rem;
