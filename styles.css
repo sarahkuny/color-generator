@@ -57,15 +57,18 @@ a:hover {
   }
 
 .buttonContainer {
-    margin-top: 30%;
+    margin-top: 20%;
     margin-left: auto;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .button {
     border: .2rem groove rgb(231, 231, 231);
     border-radius: 1rem;
+    margin-top: 2rem;
     width: 25rem;
     height: 8rem;
     text-align: center;
